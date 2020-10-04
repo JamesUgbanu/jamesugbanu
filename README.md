@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, I'm James Ugbanu I'm a React|Wordpress developer. Welcome to my gh page! <br>
+🔭 *Currently working on*: I am currently working on my tech blog.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🌱 *Currently Learning*: Artificial intellegence with react native<br>
+💬 Ask me about: how to mentor students or assistance with an application you are working on. <br>
+📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](jamesugbanu@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](linkedin.com/in/james-ugbanu)
+😄 Pronouns: He/His <br>
+
+⚡ Fun facts:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I dance and play video games
+<br>
