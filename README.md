@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm James Ugbanu I'm a React | Wordpress developer. Welcome to my gh page! <br>
+### Hi there 👋, I'm James Ugbanu, a React | Wordpress developer. Welcome to my gh page! <br>
 🔭 *Currently working on*: My tech blog.<br>
 
 
