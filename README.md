@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, I'm James Ugbanu, a React | Wordpress developer. Welcome to my gh page! <br>
-🔭 *Currently working on*: My tech blog.<br>
+🔭 *Currently working on*: I won't consider myself a tech writer but I writer occassionally - Check out my blog http://jamesugbanu.crystalwebpro.com/<br>
 
 
 🌱 *Currently Learning*: Artificial intellegence with react native<br>
