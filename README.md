@@ -1,5 +1,6 @@
 <!--
 **JamesUgbanu/jamesugbanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>Check out my blog http://jamesugbanu.crystalwebpro.com/<br>
 
 Here are some ideas to get you started:
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, I'm James Ugbanu, a React | Wordpress developer. Welcome to my gh page! <br>
-🔭 *Currently working on*: I won't consider myself a tech writer but I write occassionally - Check out my blog http://jamesugbanu.crystalwebpro.com/<br>
+🔭 *Currently working on*: 🤔
 
 
 🌱 *Currently Learning*: Artificial intellegence with react native<br>
