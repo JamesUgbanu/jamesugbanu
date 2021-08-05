@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 😄 Pronouns: He/His <br>
 
 ⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love dancing and playing video games
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love playing video games
 <br>
