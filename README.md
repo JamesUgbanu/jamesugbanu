@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💬 Ask me about: Mentorship or assistance with an application you are working on. <br>
 
 
-📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://james-ugbanu.netlify.app)
+📫 How to reach me:&nbsp;[Personal Website](https://james-ugbanu.netlify.app)
 
 😄 Pronouns: He/His <br>
 
