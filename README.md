@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <div dir="auto">
-<a href="https://github.com/YannaRP">
+<a href="https://github.com/jamesugbanu">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesugbanu&layout=compact&langs_count=7&theme=synthwav"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesugbanu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
