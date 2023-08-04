@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 *Currently Learning*: Artificial intellegence with react native<br>
 
-💬 Ask me about: Mentorship or assistance with an application you are working on. <br>
+💬 Ask me about Mentorship or assistance with an application you are working on. <br>
 
 
 📫 How to reach me:&nbsp;[Personal Website](https://james-ugbanu.netlify.app)
@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love playing video games
 <br>
+
+
+<div dir="auto">
+<a href="https://github.com/YannaRP">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesugbanu&layout=compact&langs_count=7&theme=synthwav"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesugbanu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</div>
