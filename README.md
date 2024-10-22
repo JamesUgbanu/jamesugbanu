@@ -1,6 +1,5 @@
 <!--
 **JamesUgbanu/jamesugbanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br>Check out my blog http://jamesugbanu.crystalwebpro.com/<br>
 
 Here are some ideas to get you started:
 
@@ -13,16 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm James Ugbanu, a Software developer. Welcome to my gh page! <br>
+### Hi there 👋, I'm James Ugbanu, a Cloud Engineer (Full stack, AWS, Salessforce). Welcome to my gh page! <br>
 🔭 *Currently working on*: 🤔
 
-
-🌱 *Currently Learning*: Artificial intellegence with react native<br>
+🌱 *Currently Learning*: Salesforce development<br>
 
 💬 Ask me about Mentorship or assistance with an application you are working on. <br>
 
-
-📫 How to reach me:&nbsp;[Personal Website](https://main.d1uio6ffarqyss.amplifyapp.com)
 
 😄 Pronouns: He/His <br>
 
