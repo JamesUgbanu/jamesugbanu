@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-### Hi there 👋, I'm James Ugbanu, a Cloud Engineer (Full stack, AWS, Salesforce). Welcome to my gh page! <br>
+### Hi there 👋, I'm James Ugbanu, a Software Engineer. Welcome to my gh page! <br>
 🔭 *Currently working on*: 🤔
 
 💬 Ask me about Mentorship or assistance with an application you are working on. <br>
