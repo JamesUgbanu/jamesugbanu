@@ -53,7 +53,7 @@ I documented my software engineering journey when I started:
 
 ## 🚀 Startup Experience
 
-* Co-founded **Idenva** — Digital identity verification platform for modern SaaS applications
+* Co-founded **Idenva** — [idenva.com](https://www.idenva.com) — Digital identity verification platform for modern SaaS applications
 
 ---
 
