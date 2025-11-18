@@ -20,6 +20,8 @@
 
 ## 📦 Open Source Contributions
 
+This is some of my contributions
+
 ### **NPM Packages**
 
 📌 **react-native-woocommerce-api** — React Native wrapper for WooCommerce REST API
@@ -34,8 +36,12 @@
 
 ## ✍️ Writing & Journey
 
-I documented my software engineering journey when I started:
-📝 *“Interesting tool encountered while preparing for Andela Boot Camp”* — Medium article
+I’ve documented parts of my software engineering journey — including my early bootcamp days — through various technical articles:
+
+📘 **React Native + WooCommerce** — [https://jamesugbanu.medium.com/how-to-use-react-native-with-woocommerce-7c1dfc709e53](https://jamesugbanu.medium.com/how-to-use-react-native-with-woocommerce-7c1dfc709e53)
+🛠️ **Preparing for Andela Boot Camp** — [https://jamesugbanu.medium.com/interesting-tool-encountered-while-preparing-for-andela-boot-camp-62e02239175a](https://jamesugbanu.medium.com/interesting-tool-encountered-while-preparing-for-andela-boot-camp-62e02239175a)
+🎨 **Theme Switching in React + Material UI** — [https://jamesugbanu.medium.com/theme-switching-in-react-and-material-ui-9ab6495ff6a2](https://jamesugbanu.medium.com/theme-switching-in-react-and-material-ui-9ab6495ff6a2)
+📊 **Real-Time Bar Charts in React** — [https://jamesugbanu.medium.com/how-to-create-a-real-time-bar-chart-on-react-js-8adf6b2b0c76](https://jamesugbanu.medium.com/how-to-create-a-real-time-bar-chart-on-react-js-8adf6b2b0c76)
 
 ---
 
@@ -58,9 +64,6 @@ I documented my software engineering journey when I started:
 ---
 
 ## 📫 Connect With Me
-
-🔗 **GitHub:** [github.com/JamesUgbanu](https://github.com/JamesUgbanu)
-🔗 **Medium:** [Medium Article](https://jamesugbanu.medium.com/interesting-tool-encountered-while-preparing-for-andela-boot-camp-62e02239175a?source=follow_footer---------2----------------------------)
 🔗 **LinkedIn:** [linkedin.com/in/james-ugbanu](https://www.linkedin.com/in/james-ugbanu)
 📧 **Email:** [jamesugbanu@gmail.com](mailto:jamesugbanu@gmail.com)
 
