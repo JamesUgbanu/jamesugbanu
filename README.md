@@ -10,7 +10,7 @@
 
 ## 🚀 Highlights at a Glance
 
-* **8+ years** building scalable full-stack systems
+* **Nearly a decade (~10 years)** building scalable full-stack systems
 * **Lead engineering teams** delivering high-impact products
 * **Built microservice architectures** serving thousands of users
 * **Contributor to multiple npm packages & WordPress plugins**
