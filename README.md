@@ -12,7 +12,7 @@
 
 - **~10 years experience** building full-stack products at scale  
 - **Led engineering teams** delivering high-impact features and products  
-- **Built microservice architectures** serving thousands of active users  
+- **Built architectures** serving thousands of active users  
 - **Contributor to multiple npm packages & WordPress plugins**, and more  
 - **Experienced across multiple tech ecosystems globally**
 
