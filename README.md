@@ -23,7 +23,7 @@ You can find me on GitHub or reach me via email.
 ### [MyTreep](https://mytreep.com)
 AI powered travel platform focused on budget based destination discovery, travel planning, and real time travel intelligence.
 
-### Idenva
+### [Idenva](https://idenva.com)
 Identity and document verification platform focused on simple onboarding and verification workflows for modern businesses.
 
 ---
