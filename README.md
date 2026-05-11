@@ -1,7 +1,5 @@
 # James Ugbanu
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamesugbanu&label=Profile%20views&color=0e75b6&style=flat)
-
 Updated May 2026
 
 Senior Software Engineer based in Nigeria, building scalable and reliable software systems with a focus on full stack engineering, distributed systems, and cloud infrastructure.
