@@ -1,5 +1,7 @@
 # myTreep
 
+Project link: [mytreep.com](https://mytreep.com)
+
 ## Project Summary
 
 myTreep is an AI-powered travel planning platform designed to help users move from broad travel intent to structured trip plans, itineraries, and shareable outputs.
