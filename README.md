@@ -50,5 +50,4 @@ TypeScript, JavaScript, Node.js, Next.js, NestJS, React, React Native, PostgreSQ
 
 ## Connect
 
-- [GitHub](https://github.com/jamesugbanu)
 - [LinkedIn](https://www.linkedin.com/in/james-ugbanu)
