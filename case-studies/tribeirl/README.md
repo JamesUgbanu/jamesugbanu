@@ -1,5 +1,7 @@
 # TribeIRL
 
+Project link: [tribeirl.com](https://www.tribeirl.com)
+
 ## Project Summary
 
 TribeIRL is a community and events platform built to help people discover local groups, attend events, and participate more consistently in real-world communities.

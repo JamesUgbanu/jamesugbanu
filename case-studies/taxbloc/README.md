@@ -1,5 +1,7 @@
 # TaxBloc
 
+Project link: [taxbloc.ai](https://taxbloc.ai)
+
 ## Project Summary
 
 TaxBloc is a financial export platform built around a demanding mix of concerns: external financial integrations, sensitive data handling, subscription logic, asynchronous export workflows, and a deployment model that needed to feel credible in production without becoming too heavy for the stage of the product.
