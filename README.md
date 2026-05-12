@@ -1,79 +1,52 @@
 # James Ugbanu
 
-Updated May 2026
+Senior Software Engineer focused on backend systems, cloud infrastructure, and product engineering.
 
-Senior Software Engineer based in Nigeria, building scalable and reliable software systems with a focus on full stack engineering, distributed systems, and cloud infrastructure.
+I build software that is meant to hold up in production: APIs, distributed workflows, deployment systems, and the platform decisions behind them. My work has spanned fintech, identity, travel, and community products, with a consistent focus on reliability, scalability, cost awareness, and practical engineering judgment.
 
-I have worked across companies in the UK, Germany, and Nigeria, including [Tribe IRL](https://www.tribeirl.com), [MortgageBloc](https://taxbloc.ai), [InstaLOD GmbH](https://instalod.com), and [Vezeti](https://vezeti.net), where I designed and shipped production systems used at scale.
+## What I Work On
 
-I currently build systems focused on performance, reliability, and clean architecture, leading decisions around backend services, APIs, cloud infrastructure, deployment workflows, and distributed system design on AWS.
+- Backend and full-stack application development
+- Cloud infrastructure and deployment workflows
+- Distributed systems and asynchronous processing
+- Reliability, observability, and production readiness
+- Product engineering across fintech, travel, identity, and community platforms
 
-I am a co founder of [MyTreep](https://mytreep.com), an AI powered travel platform that helps users discover destinations, flights, and hotels based on budget and real time travel data.
+## Featured Case Studies
 
-I also build and maintain developer tools and integrations, including packages around WooCommerce APIs, Paystack payment integrations, and utilities for image processing.
+These are public-safe project breakdowns written for recruiters, engineering leads, clients, and companies. They focus on engineering decisions, tradeoffs, business impact, and production thinking without exposing confidential implementation details.
 
-I consider myself an engineer at heart and enjoy building highly reliable, cost efficient, and well structured systems.
+- [TaxBloc](case-studies/taxbloc/README.md)
+  Financial data export workflows, cloud deployment design, and production-minded infrastructure decisions.
+- [myTreep](case-studies/mytreep/README.md)
+  Founder-led product engineering around AI-assisted travel planning, monetization flexibility, and fast iteration.
+- [TribeIRL](case-studies/tribeirl/README.md)
+  Engineering inside a broad community and events system with asynchronous workloads, release discipline, and operational resilience.
 
-You can find me on GitHub or reach me via email.
+See the full [case studies index](case-studies/README.md).
 
----
+## Selected Experience
 
-## Products
+- Built and maintained production systems using TypeScript, Node.js, Next.js, NestJS, PostgreSQL, Prisma, and React.
+- Designed and supported cloud-native deployments on AWS with attention to security, release discipline, and cost efficiency.
+- Worked on systems involving queues, workers, payment integrations, external APIs, and heavier background workloads.
+- Shipped across product environments where engineering quality had to support both user experience and business credibility.
 
-### [MyTreep](https://mytreep.com)
-AI powered travel platform focused on budget based destination discovery, travel planning, and real time travel intelligence.
+## Products And Packages
 
-### [Idenva](https://idenva.com)
-Identity and document verification platform focused on simple onboarding and verification workflows for modern businesses.
+### Products
 
----
+- [myTreep](https://mytreep.com)
+- [Idenva](https://idenva.com)
 
-## Packages
+### Packages
 
-### [React Native WooCommerce API](https://www.npmjs.com/package/react-native-woocommerce-api?)
-React Native wrapper for the WooCommerce REST API.
+- [React Native WooCommerce API](https://www.npmjs.com/package/react-native-woocommerce-api)
+- [Blurry Check](https://www.npmjs.com/package/blurry-check)
 
-### [Blurry Check](https://www.npmjs.com/package/blurry-check)
-Utility for detecting blurry and low quality images.
+## Technology Areas
 
-### Caldera Forms Paystack Add-on
-WordPress plugin for integrating Paystack payments into Caldera Forms.
-
-### Contact Form 7 Paystack Add-on
-WordPress plugin for integrating Paystack payments into Contact Form 7.
-
----
-
-## Experience
-
-- Designed and deployed scalable backend and cloud architectures on AWS
-- Built and maintained production systems using Next.js, NestJS, TypeScript, PostgreSQL, Prisma, Docker, ECS, and Fargate
-- Led engineering decisions around reliability, scalability, observability, and infrastructure cost optimization
-- Built CI/CD pipelines and deployment workflows for production environments
-- Worked across fintech, travel, SaaS, identity verification, and community platforms
-- Built systems involving queues, workers, payment systems, third party integrations, and distributed services
-- Contributed to open source packages and developer tooling
-
----
-
-## Technologies
-
-TypeScript • JavaScript • Next.js • NestJS • React • React Native • Node.js • PostgreSQL • Prisma • MySQL • MongoDB • AWS • ECS • Fargate • Docker • Terraform • CloudWatch • Sentry • Stripe • Redis • BullMQ • CI/CD
-
----
-
-## Current Focus
-
-- Distributed systems
-- Cost efficient cloud infrastructure
-- AWS and Terraform
-- Production grade backend systems
-- AI powered applications
-- Fintech infrastructure
-- Reliability and observability
-- Developer tooling
-
----
+TypeScript, JavaScript, Node.js, Next.js, NestJS, React, React Native, PostgreSQL, Prisma, MySQL, MongoDB, AWS, Docker, Terraform, Redis, CI/CD, distributed systems, and backend platform engineering.
 
 ## Connect
 
