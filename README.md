@@ -1,6 +1,6 @@
 # James Ugbanu
 
-Senior Software Engineer focused on backend systems, cloud infrastructure, and product engineering.
+Senior Software/Infrastructure Engineer focused on backend systems, cloud infrastructure, and product engineering.
 
 I build software that is meant to hold up in production: APIs, distributed workflows, deployment systems, and the platform decisions behind them. My work has spanned fintech, identity, travel, and community products, with a consistent focus on reliability, scalability, cost awareness, and practical engineering judgment.
 
@@ -27,7 +27,7 @@ See the full [case studies index](case-studies/README.md).
 
 ## Selected Experience
 
-- Built and maintained production systems using TypeScript, Node.js, Next.js, NestJS, PostgreSQL, Prisma, and React.
+- Built and maintained production systems using TypeScript, Python, Node.js, Next.js, NestJS, PostgreSQL, Prisma, and React.
 - Designed and supported cloud-native deployments on AWS with attention to security, release discipline, and cost efficiency.
 - Worked on systems involving queues, workers, payment integrations, external APIs, and heavier background workloads.
 - Shipped across product environments where engineering quality had to support both user experience and business credibility.
@@ -46,7 +46,7 @@ See the full [case studies index](case-studies/README.md).
 
 ## Technology Areas
 
-TypeScript, JavaScript, Node.js, Next.js, NestJS, React, React Native, PostgreSQL, Prisma, MySQL, MongoDB, AWS, Docker, Terraform, Redis, CI/CD, distributed systems, and backend platform engineering.
+TypeScript, JavaScript, Python, Node.js, Next.js, NestJS, React, React Native, PostgreSQL, Prisma, MySQL, MongoDB, AWS, Docker, Terraform, Redis, CI/CD, distributed systems, and backend platform engineering.
 
 ## Connect
 
